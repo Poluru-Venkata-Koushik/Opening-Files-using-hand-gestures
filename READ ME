@@ -1,0 +1,2 @@
+Download EMNIST DATA SET @https://www.nist.gov/itl/products-and-services/emnist-dataset and paste the RAR files in projectpath/data
+Run the .ipynb file using jupyter or COLAB
